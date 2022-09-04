@@ -1,0 +1,24 @@
+Fighter Game v2
+Data wydania: 04.09.2022
+--- Stworz swoja postac ---
+Podaj imie: 
+Nieprawidlowe imie. Imie nie moze byc puste.
+Jak duzo przeznaczysz na [{0}]. Pozostalo [{1}/{2}]: 
+Nie masz juz punktow. Reszta wartosci zostanie przypisana domyslnie.
+Twoja odpowiedz jest niepoprawna. Odpowiedz nie moze byc pusta, musi byc liczba i miescic sie w przedziale.
+Zdrowie
+Obrazenia
+Szansa na uderzenie krytyczne
+Predkosc ataku
+--- Twoja postac ---
+Imie: {0}
+Zdrowie: {0}
+Obrazenia: {0}
+Szansa na uderzenie krytyczne: {0}
+Predkosc ataku: {0}
+Czy chcesz grac ta postacia? [Y/N]: 
+Twoja odpowiedz jest niepoprawna. Sproboj ponownie.
+--- Generowanie danych o przeciwniku ---
+Wrog
+{0} zadal {1} obrazen {2}
+{0} wygral ten mecz.

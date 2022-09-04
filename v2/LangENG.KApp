@@ -1,0 +1,24 @@
+Fighter Game v2
+Release Date: 04.09.2022
+--- Create your character ---
+Give Name of your character: 
+Your Name is not correct. Name cannot be empty.
+How much you want spend upgrade points on [{0}]. Remaining [{1}/{2}]: 
+You dont have points left. Rest of attributes will be have base value.
+Your answer is incorrect. Answer cannot be empty or out of .../... and must be number.
+Health
+Attack Damage
+Critical Hit Rate
+Attack Speed
+--- Your Character ---
+Name: {0}
+Health: {0}
+Attack Damage: {0}
+Critical Hit Rate: {0}
+Attack Speed: {0}
+Are you want play with this character [Y/N]: 
+Your answer is invalid. Please try again.
+--- Generate enemy character ---
+Enemy
+{0} deal {1} dmg to {2}
+{0} win this duel
