@@ -1,0 +1,83 @@
+<root>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="AppPrepareChoose" xml:space="preserve">
+        <value>Wybierz język</value>
+    </data>
+    <data name="EmptyUserInput" xml:space="preserve">
+        <value>Twoja odpowiedz nie moze byc pusta.</value>
+    </data>
+    <data name="AppPrepareFalseLang" xml:space="preserve">
+        <value>Program nie obsluguje podanego jezyka, prosze wybrac inny jezyk.</value>
+    </data>
+    <data name="ApplicationTitle" xml:space="preserve">
+        <value>Fighter Game</value>
+    </data>
+    <data name="ApplicationReleaseDate" xml:space="preserve">
+        <value>Data wydania: --.--.----</value>
+    </data>
+    <data name="CharacterCreatorTitle" xml:space="preserve">
+        <value>---&gt; Stworz swoja postac &lt;---</value>
+    </data>
+    <data name="CharacterCreatorGetName" xml:space="preserve">
+        <value>Podaj imie: </value>
+    </data>
+    <data name="CharacterCreatorGetPoints" xml:space="preserve">
+        <value>Podaj ilosc punktow, które zamierzasz przeznaczyc na ulepszenie [{0}]. Pozostalo ci [{1}/{2}]: </value>
+    </data>
+    <data name="CharacterAttributeHealth" xml:space="preserve">
+        <value>Zdrowie</value>
+    </data>
+    <data name="InvalidNumberInput" xml:space="preserve">
+        <value>Twoja odpowiedz musi byc liczba.</value>
+    </data>
+    <data name="CharacterCreatorInvalidRangePoints" xml:space="preserve">
+        <value>Twoja liczba nie jest pomiedzy przedzialem.</value>
+    </data>
+    <data name="CharacterAttributeArmor" xml:space="preserve">
+        <value>Pancerz</value>
+    </data>
+    <data name="CharacterAttributeAttackDamage" xml:space="preserve">
+        <value>Obrazenia</value>
+    </data>
+    <data name="CharacterAttributeCritRate" xml:space="preserve">
+        <value>Szansa na krytyczne</value>
+    </data>
+    <data name="CharacterAttributeAttackSpeed" xml:space="preserve">
+        <value>Predkosc ataku</value>
+    </data>
+    <data name="CharacterDrawArtifactTitle" xml:space="preserve">
+        <value>Losowanie artefaktu...</value>
+    </data>
+    <data name="CharacterDrawArtifactFail" xml:space="preserve">
+        <value>Nie udalo sie zdobyc artefaktu</value>
+    </data>
+    <data name="CharacterDrawArtifactResult" xml:space="preserve">
+        <value>Otrzymales... [{0}]</value>
+    </data>
+    <data name="CharacterCreatorPlayerResult" xml:space="preserve">
+        <value>Twoja postac zostala pomyslnie utworzona</value>
+    </data>
+    <data name="CharacterCreatorEnemyPreparation" xml:space="preserve">
+        <value>Tworzenie twojego przeciwnika</value>
+    </data>
+    <data name="CharacterCreatorEnemyFinalText" xml:space="preserve">
+        <value>Twoj przeciwnik zostal utworzony</value>
+    </data>
+    <data name="CharacterFightSchemat" xml:space="preserve">
+        <value>{0} zadal {1} obrazen {2}</value>
+    </data>
+    <data name="CharacterFightResult" xml:space="preserve">
+        <value>---&gt; {0} Wygral pojedynek! &lt;---</value>
+    </data>
+</root>
